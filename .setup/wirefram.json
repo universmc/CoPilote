@@ -1,0 +1,37 @@
+{
+"contexte": {
+"objectif": "Décrire le processus de création d'un wireframe pour la page d'accueil (index) d'un site web, en utilisant les technologies suivantes : HTML5, CSS/SCSS, SVG, JavaScript, JSON",
+"description": "Créer une banque de prompts pour la description de wireframes de sites web, en décrivant la structure générale de la page, la navigation, le contenu principal, le pied de page, les interactions, et l'utilisation de chaque technologie dans la création du wireframe"
+},
+"structure_generale": {
+"header": "Bannière avec une image de fond et un slogan",
+"navigation": {
+"menu_principal": "Accueil, À propos, Services, Contact",
+"sous-menus": "Sous-menus pour les Services",
+"menu_burger": "Optionnel, pour les petits écrans"
+},
+"contenu_principal": {
+"bannière": "Image de fond, texte de présentation, appel à l'action",
+"présentation": "Texte de présentation de l'entreprise, liste des services",
+"témoignages": "Témoignages de clients, citations, évaluations",
+"appel_à_l'action": "Bouton pour contacter l'entreprise, formulaire de contact"
+},
+"footer": "Mentions légales, copyright, liens vers les réseaux sociaux, plan du site"
+},
+"navigation": {
+"position": "En haut, en bas, latéral"
+},
+"contenu_principal": {
+"mise_en_page": "Nombre de colonnes, position des éléments"
+},
+"interactions": {
+"hover": "Sur les éléments, animations simples, effets de transition"
+},
+"utilisation_des_technologies": {
+"HTML": "Utilisé pour la structure du wireframe",
+"CSS/SCSS": "Utilisé pour le style visuel et la mise en page",
+"SVG": "Utilisé pour les icônes vectorielles",
+"JavaScript": "Utilisé pour les interactions et les animations",
+"JSON": "Utilisé pour le stockage des données pour les menus, carrousels, etc."
+}
+}
